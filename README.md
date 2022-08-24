@@ -1,2 +1,1 @@
 # Meu currículo
-- Meus Projetos;
